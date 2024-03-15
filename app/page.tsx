@@ -5,22 +5,11 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>app/page.tsx</code>
-        </p>
+       Before the world was opened, the sky and the earth were a chaotic mass, like an egg, and Pangu was born among them.
       </div>
 
       <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-        <span>+</span>
+        <h1>Hello Pangu</h1>
         <Image
           src="/amplify.svg"
           alt="Amplify Logo"
@@ -38,9 +27,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Open Sky
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>The light and clear Yang Qi ascended to become the sky</p>
         </a>
 
         <a
@@ -50,21 +39,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart <span>-&gt;</span>
+            Sank earth <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
-        </a>
-
-        <a
-          href="https://docs.amplify.aws/gen2/build-a-backend/auth/set-up-auth/"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Auth <span>-&gt;</span>
-          </h2>
-          <p>Zero-config Auth UI components with social sign-in and MFA.</p>
+          <p>The heavy and turbid Yin Qi sank to form the earth.</p>
         </a>
 
         <a
@@ -74,10 +51,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Data <span>-&gt;</span>
+            The world is born <span>-&gt;</span>
           </h2>
           <p>
-            Fully-typed real-time API with NoSQL database.
+            Pangu was between heaven and earth. He changed many times a day and was more sacred than heaven and earth. Every day the sky rose ten feet higher, the earth became ten feet thicker every day, and Pangu grew ten feet taller every day. This continued for another eighteen thousand years. The sky rose very high, the earth sank very deep, and Pangu grew very tall. 
           </p>
         </a>
       </div>
