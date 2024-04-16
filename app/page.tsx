@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className={styles.center}>
         <h1>Hello Pangu 2.0</h1>
-        <P>relive a new life in lengendary era.</P>
+        <p>relive a new life in lengendary era.</p>
         <Image
           src="/amplify.svg"
           alt="Amplify Logo"
