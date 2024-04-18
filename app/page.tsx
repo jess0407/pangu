@@ -29,7 +29,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>Open Sky</h2>
-          <p>The light and clear Yang Qi ascended to become the sky</p>
+          <p>
+            The light and clear Yang Qi ascended to become the sky. a new world
+            is forming
+          </p>
         </a>
 
         <a
