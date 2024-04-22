@@ -31,7 +31,7 @@ export default function Home() {
           <h2>Open Sky</h2>
           <p>
             The light and clear Yang Qi ascended to become the sky. a new world
-            is forming
+            is forming。穿越，重生，量劫，因果。
           </p>
         </a>
 
